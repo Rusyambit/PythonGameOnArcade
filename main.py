@@ -5,7 +5,7 @@ python -m arcade.examples.platform_tutorial.01_open_window
 """
 import arcade
 
-# Constants main
+# Constants main2
 WINDOW_WIDTH = 1200
 WINDOW_HEIGHT = 700
 WINDOW_TITLE = "Death warrior"
